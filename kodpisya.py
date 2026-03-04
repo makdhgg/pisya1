@@ -1,5 +1,6 @@
 arr = list()
 n = int(input("Enter number of elements:"))
+a = 8
 print("Enter elements:")
 i = 0
 while(i < n):
